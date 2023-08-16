@@ -1,5 +1,3 @@
-*.txt
-*.word
-*.class
 *.gitignore
-*.node_modules/
+*.lock.Programming-Fundamentals-Assignment-2.odt#
+node_modules/
