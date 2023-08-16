@@ -1,0 +1,5 @@
+*.txt
+*.word
+*.class
+*.gitignore
+*.node_modules/
